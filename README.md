@@ -83,8 +83,8 @@ Capstone-Project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/hr-attrition-capstone.git
-cd hr-attrition-capstone
+git clone https://github.com/Akash-Krish/Capstone-Project.git
+cd Capstone-Project
 ```
 
 ### 2. Create a virtual environment
@@ -293,9 +293,11 @@ Based on SHAP analysis findings:
 
 ## Author
 
-**Akash**
+**Akash Subramaniam K**
 Full-Stack Developer, Bosch Global Software Technologies
 IIT Madras — Advanced Certificate in ML, GenAI & LLMs for Business Applications
+
+*Independently prepared and implemented this end-to-end ML pipeline as part of the HR Analytics Capstone.*
 
 ---
 
