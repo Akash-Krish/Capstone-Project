@@ -1,0 +1,19 @@
+{
+  "total_rows": 50500,
+  "total_columns": 36,
+  "attrition_rate_pct": 61.44,
+  "missing_cols": [
+    "manager_rating",
+    "engagement_score"
+  ],
+  "id_cols_to_drop": [
+    "employee_id",
+    "legacy_hr_record",
+    "employee_cluster_id",
+    "survey_batch_id",
+    "payroll_reference_number"
+  ],
+  "data_quality_issues": [
+    "employment_type casing inconsistency (Permanent/permanent/PERMANENT)"
+  ]
+}
